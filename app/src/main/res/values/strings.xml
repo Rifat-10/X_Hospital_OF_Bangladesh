@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">X Hospital OF Bangladesh</string>
+
+
+    <string-array name="Dr">
+
+        <item>Dr.Rifat</item>
+        <item>Dr.Ria</item>
+        <item>Dr.Minhaz</item>
+        <item>Dr.Monisha</item>
+        <item>Dr.Rahim</item>
+        <item>Dr.Arif</item>
+
+
+    </string-array>
+
+    <string-array name="doctor_type">
+
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Cricket</item>
+
+
+    </string-array>
+
+    <string name="Dr_Rifat">"
+
+                       Dr. Rifat
+                     MBBS,MCPS, FCPS
+                 Anesthesiology Specialist
+        Prof. of Anaesthesiology of X Hospital OF Bangladesh
+                  Email: rifat@ gmail.com
+             Phone: +880-2-8234457, 882299,112223
+                    Time: 10:00AM-04:00PM
+                        FEE: 500TK
+
+    </string>
+
+    <string name="Dr_Ria">"
+
+                       Dr. Ria
+                      MBBS, FCPS
+                 Anesthesiology Specialist
+        Prof. of Anaesthesiology of X Hospital OF Bangladesh
+                  Email: riat@ gmail.com
+             Phone: +880-2-1111117, 8344339,1333443
+                    Time: 10:00AM-04:00PM
+                        FEE: 500TK
+</string>
+
+    <string name="Dr_Minhaz">"
+
+                       Dr.Minhaz
+                      MBBS, FCPS
+                 Anesthesiology Specialist
+        Prof. of Anaesthesiology of X Hospital OF Bangladesh
+                  Email: minhaz@ gmail.com
+         Phone: +880-2-143515437, 34545349,15443222
+                    Time: 09:00AM-03:00PM
+                        FEE: 500TK
+    </string>
+
+    <string name="Dr_Monisha">"
+
+                       Dr.Monisha
+                 MBBS, FCPS ( Anaesthesia)
+                 Anesthesiology Specialist
+                  X Hospital OF Bangladesh
+                  Email: minhaz@ gmail.com
+         Phone: +880-2-143515437, 34545349,15443222
+                    Time: 09:00AM-03:00PM
+                        FEE: 500TK
+
+    </string>
+
+
+
+    <string name=" ">"
+
+        </string>
+
+
+    <string name=" ">"
+
+        </string>
+</resources>

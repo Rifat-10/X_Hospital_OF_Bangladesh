@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <Button
+        android:text="Anesthetics"
+        android:id="@+id/listButtonId"
+        android:layout_marginTop="10dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content">
+
+    </Button>
+
+    <Button
+        android:text="Burn Unit"
+        android:id="@+id/listButton2Id"
+        android:layout_marginTop="10dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content">
+
+    </Button>
+    <Button
+        android:text="Cardiology"
+        android:id="@+id/listButton3Id"
+        android:layout_marginTop="10dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content">
+
+    </Button> <Button
+    android:text="Discharge Lounge"
+    android:id="@+id/listButton4Id"
+    android:layout_marginTop="10dp"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content">
+
+</Button>
+    <Button
+        android:text="Elderly Services"
+        android:id="@+id/listButton5Id"
+        android:layout_marginTop="10dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content">
+
+    </Button>
+    <Button
+        android:text="Finance Department"
+        android:id="@+id/listButton6Id"
+        android:layout_marginTop="10dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content">
+
+    </Button>
+    <Button
+        android:text="Health AND Safety"
+        android:id="@+id/listButton7Id"
+        android:layout_marginTop="10dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content">
+
+    </Button>
+
+    <Button
+        android:text="Neurology"
+        android:id="@+id/listButton8Id"
+        android:layout_marginTop="10dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content">
+
+    </Button>
+    <Button
+        android:text="Sexual Health"
+        android:id="@+id/listButton9Id"
+        android:layout_marginTop="10dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content">
+
+    </Button>
+
+
+</LinearLayout>
